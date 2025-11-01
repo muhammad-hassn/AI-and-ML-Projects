@@ -1,9 +1,9 @@
 # AI-and-ML-Projects
-##Business AI Meeting
-##Image Caption AI
+## Business AI Meeting
+## Image Caption AI
 
-##Classifies Aircraft Damage
+## Classifies Aircraft Damage
 
-##K Mean
-##Regression with Keras
+## K Mean
+## Regression with Keras
 
