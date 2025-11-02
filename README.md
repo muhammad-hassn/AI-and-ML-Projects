@@ -61,22 +61,28 @@ We use the **Kaggle Titanic dataset**, which includes two CSV files:
 
 
 ### 🔹 Survival by Gender
-![Survival by Gender](plots/survival_by_gender.png)
+<img width="419" height="295" alt="image" src="https://github.com/user-attachments/assets/ae9b047b-5cd9-4d50-bc49-91aad2b0d69f" />
+
 
 ### 🔹 Age Distribution by Survival
-![Age Distribution](plots/age_distribution.png)
+<img width="530" height="354" alt="image" src="https://github.com/user-attachments/assets/c7e62f1a-51eb-4d78-84ac-f3b64ce447d9" />
+
 
 ### 🔹 Passenger Class vs Survival
-![Class vs Survival](plots/pclass_vs_survival.png)
+<img width="417" height="293" alt="image" src="https://github.com/user-attachments/assets/3fb88e19-5256-4c9e-a9a9-fd7ae95717a2" />
+
 
 ### 🔹 Confusion Matrix
-![Confusion Matrix](plots/confusion_matrix.png)
+<img width="340" height="295" alt="image" src="https://github.com/user-attachments/assets/c377c33d-60f0-46d4-a5b7-30f87b0921cd" />
+
 
 ### 🔹 ROC Curve
-![ROC Curve](plots/roc_curve.png)
+<img width="403" height="354" alt="image" src="https://github.com/user-attachments/assets/3ef694ba-79a9-4dc0-99a8-0f389958fa0e" />
+
 
 ### 🔹 Feature Importance
-![Feature Importance](plots/feature_importance.png)
+<img width="667" height="352" alt="image" src="https://github.com/user-attachments/assets/6020e960-a53e-4636-8a53-4675a403df13" />
+
 
 ---
 
