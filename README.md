@@ -57,7 +57,8 @@ We use the **Kaggle Titanic dataset**, which includes two CSV files:
 ## 📊 Visualizations
 
 ### 🔹 Survival Count
-![Survival Count](plots/survival_count.png)
+<img width="432" height="296" alt="image" src="https://github.com/user-attachments/assets/66a34faa-a5fb-4eaa-a67b-2c0aa7ef7923" />
+
 
 ### 🔹 Survival by Gender
 ![Survival by Gender](plots/survival_by_gender.png)
