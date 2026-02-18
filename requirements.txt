@@ -1,4 +1,4 @@
-gradio
+gradio>=3.50
 pypdf
 sentence-transformers
 faiss-cpu

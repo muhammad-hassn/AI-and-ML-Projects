@@ -96,7 +96,7 @@ def chat_with_pdf(uploaded_files, question):
 with gr.Blocks() as demo:
     gr.Markdown("# AI PDF Chat (RAG) – Free & CPU Friendly")
     with gr.Row():
-        pdfs = gr.File(label="Upload PDFs", file_types=['.pdf'], file_types_allow_multiple=True)
+        pdfs = gr.File(label="Upload PDFs", file_types=['.pdf'], file_types_multiple=True)
     question_input = gr.Textbox(label="Ask a question", placeholder="Type your question here...")
     output = gr.Textbox(label="Answer", placeholder="AI will answer here...")
     submit_btn = gr.Button("Ask")
