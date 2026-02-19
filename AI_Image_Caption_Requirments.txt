@@ -1,0 +1,9 @@
+gradio==5.23.2 
+transformers==4.46.0 
+torch
+torchvision
+Pillow
+huggingface-hub
+
+
+
